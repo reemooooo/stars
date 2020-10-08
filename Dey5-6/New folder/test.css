@@ -1,0 +1,16 @@
+
+
+div {
+  position: relative;
+    width: 1500px;
+    height: 650px;
+    border: 1px solid black;
+  }
+
+
+  #pictuer {
+    position: absolute;
+    width: 1500px;
+    height: 650px;
+    border: 1px solid black;
+  }

@@ -1,0 +1,131 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 15px;
+    left: 16px;
+  }
+  
+  .top-left {
+    position: absolute;
+    bottom: 100px;
+    left:30%;
+    font-size: 100px;
+  }
+
+
+  
+  #nemo{
+    position: inherit;
+    display: none;
+  }
+  
+  .option1 {
+    display: none;
+    position: absolute;
+    bottom: 15px;
+    right: 200px;
+  }
+
+  .option2 {
+    display: none;
+    position: absolute;
+    bottom: 15px;
+    right: 100px;
+  }
+
+  .option3 {
+    display: none;
+    position: absolute;
+    bottom: 15px;
+    right: 16px;
+  }
+  
+  #centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    width: 500px;
+    height: 500px;
+    
+  }
+
+
+  
+
+
+  .circle {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 102px; 
+    left: 736px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+
+  
+
+  .circle2 {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 434px; 
+    left: 725px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+
+  .circle3 {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 262px; 
+    left: 1016px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+
+  .circle4 {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 253px; 
+    left: 497px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+  
+
+  .circle5 {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 139px; 
+    left: 334px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+
+  .circle6 {
+    display: none;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    top: 342px; 
+    left: 328px;
+    background-color: rgb(255, 1, 1);
+    border-radius: 50%;
+  }
+  
